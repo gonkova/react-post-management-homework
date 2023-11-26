@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "author": "Author",
+      "content": "Lorem ipsum"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "author": "Author 2",
+      "content": "Lorem ipsum"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "author": "Author 3",
+      "content": "Lorem ipsum"
+    },
+    {
+      "id": 4,
+      "title": "Post 4",
+      "content": "Lorem Ipsum ",
+      "author": "Author 4"
+    }
+  ]
+}
